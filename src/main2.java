@@ -40,6 +40,7 @@ public class main2 {
                     vetor[i] = vetor[i + 1];
                     vetor[i + 1] = temp;
                     trocou = true;
+                    a\
                 }
             }
         } while (trocou);
